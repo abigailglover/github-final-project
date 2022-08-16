@@ -3,6 +3,8 @@
 This repository is for my final IBM Github project from Getting started with Git and Github on Coursera.
 
 -----------------------------------
+<br>
+<br>
 ## Task 3
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
